@@ -79,4 +79,8 @@ public class Principal {
 
 No código anterior, vai ocorrer erro de compilação na classe <strong>Principal</strong>, pois o atributo saldo e o método sacar foram declarados como <strong>private</strong>, não podendo com isso serem acessados de fora da própria classe Conta.
 
+> Estruturas condicionais = if-else, switch-case
+> Estruturas de repetição = for, while, do-while
+> Estruturas de exceções = Try,catch-finally
+
 
